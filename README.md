@@ -1,7 +1,6 @@
-
-
-
-
+<div align="center">
+  <img src="https://github.com/Chandu154/Chandu154/blob/master/banner.jpg" alt="GitHub Banner" width="800"/>
+</div>
 
 
 
